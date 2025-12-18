@@ -9,7 +9,7 @@ import torch
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
-from diff_gprnet import UNet_RMA_Wavelet as UNet
+from diff_gprnet import Diff_GPRNet as UNet
 
 class MinMaxNormalize:
     def __call__(self, array: np.ndarray) -> np.ndarray:
