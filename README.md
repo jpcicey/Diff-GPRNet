@@ -7,8 +7,7 @@ Diff-GPRNet is an open-source deep learning framework for **diffraction wavefiel
 ## Project Introduction
 
 
-**Description:**  
-Diffraction waves play a crucial role in characterizing small-scale subsurface heterogeneities. However, in practical GPR data, diffraction signals are often weak and heavily contaminated by reflections and noise. Diff-GPRNet addresses this challenge by learning diffraction-specific representations using a deep neural network with residual and attention mechanisms.
+**Description:** Diffraction waves play a crucial role in characterizing small-scale subsurface heterogeneities. However, in practical GPR data, diffraction signals are often weak and heavily contaminated by reflections and noise. Diff-GPRNet addresses this challenge by learning diffraction-specific representations using a deep neural network with residual and attention mechanisms.
 
 This repository provides a **complete workflow from data synthesis to model training and prediction**.
 
